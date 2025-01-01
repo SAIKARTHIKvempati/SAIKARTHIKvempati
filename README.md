@@ -4,7 +4,7 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+World!;My+name+is+Sai+Karthik;Welcome+to+my+README" alt="Typing SVG" /><a/>
  <h1/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p> -->
-
+  
 <!--<h3 align="center">Passionate about Data Science and Ios Develeopment</h3> -->
 <h3><img align="right" alt="coding" width="400" src="images/Cyberpunk Gif - IceGif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAIKARTHIKvempati&label=Profile%20views&color=0e75b6&style=flat" alt="SAIKARTHIKvempati" /> </p>
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sai-karthik-vempati-b87682236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[www.linkedin.com/in/sai-karthik-vempati-b87682236/](https://www.linkedin.com/in/sai-karthik-vempati-b87682236/)" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/sai-karthik-vempati-b87682236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sai-karthik-vempati-b87682236/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools: </h3>
