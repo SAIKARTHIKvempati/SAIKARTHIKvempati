@@ -18,8 +18,7 @@
 - 🎓 I'm a CSE undergrad at SRMAP.  
 - 💻 I’m currently working as Junior Data Scientist at Sybyl. 
 - 👯 I'm currently learning Data Science and Business Analytics.
-- ⭐ 2025's Objective: Contribute more to open source and master Data Science and Business Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
- 
+- ⭐ 2025's Objective: Contribute more to open source and master Data Science and Business Analytics. 
 
 <!-- - ⚡ Fun fact **I am a procastinator** -->
 
