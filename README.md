@@ -1,7 +1,7 @@
 # Welcome to Sai Karthik's GitHub Space!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 <h1 align = "center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+World!;My+name+is+Vishnu+Vardhan%2C+Graduate;Welcome+to+my+README" alt="Typing SVG" /><a/>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+World!;My+name+is+Sai+Karthik%2C+Graduate;Welcome+to+my+README" alt="Typing SVG" /><a/>
  <h1/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Stapa1&label=Profile%20views&color=0e75b6&style=flat" alt="Stapa1" /> </p> -->
 
@@ -15,11 +15,11 @@
 
 <!-- - 📫 How to reach me **manigorla7@gmail.com** -->
 
-- 🎓 I'm a Final Year Computer Science Engineering undergrad at SRMAP.  
-- 💻 I’m currently learning Data Mining and Blockchain Technologies. 
-- 👯 Looking to intern in Data Science roles
-- ⭐ 2024's Objective: Contribute more to open source and master DSA <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
-- ⚡ I love coding and tennis. 
+- 🎓 I'm a CSE undergrad at SRMAP.  
+- 💻 I’m currently working as Junior Data Scientist at Sybyl. 
+- 👯 I'm currently learning Data Science and Business Analytics.
+- ⭐ 2025's Objective: Contribute more to open source and master Data Science and Business Analytics <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
+ 
 
 <!-- - ⚡ Fun fact **I am a procastinator** -->
 
