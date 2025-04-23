@@ -29,10 +29,10 @@
 </p>
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-  <a
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/> 
   </a>
-  <a 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 20px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> 
   </a> 
 </p>
