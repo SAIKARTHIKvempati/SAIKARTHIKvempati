@@ -72,7 +72,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" height="60"/>
   </a>
   <a style="margin-right: 20px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="60" height="60"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="80" height="80"/>
   </a>
   <a style="margin-right: 20px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
