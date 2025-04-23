@@ -69,6 +69,10 @@
   <a>
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/>
   </a>
+  <a>
+    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="VSCode" width="40" height="40"/>
+  </a>
+ 
 </p>
 
 
