@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/sai-karthik-vempati-b87682236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-karthik-vempati-b87682236/" height="30" width="40" /></a>
 </p>
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> 
+<p align="left" style="display: flex; gap: 20px; align-items: center;"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/> 
   </a>
