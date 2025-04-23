@@ -32,27 +32,8 @@
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
 </p>
-<h3 align="left">Stats</h3>
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAIKARTHIKvempati&theme=dark" width="45%" align="center"/>
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=Stapa1&theme=dark&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="45%" align="center"/> -->
- <img src="https://github-readme-stats.vercel.app/api?username=SAIKARTHIKvempati&theme=dark&show_icons=true" width="45%" align="center"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIKARTHIKvempati&theme=dark&layout=compact" align="center" width="30%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAIKARTHIKvempati&theme=moonlight" width="58%" align="center" />
- 
-  <img src="https://github-profile-trophy.vercel.app/?username=SAIKARTHIKvempati&row=1(https://github.com/Stapa1/github-profile-trophy)" />
 
-<p/>
+
   
   
 
-<!--[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312a3vvkqvwc4ot5mhzuecxh2wre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-<!-- 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Stapa1&show_icons=true&locale=en&layout=compact" alt="Stapa1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Stapa1&show_icons=true&locale=en" alt="Stapa1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Stapa1&" alt="Stapa1" /></p> -->
-  
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Stapa1&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
