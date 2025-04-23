@@ -27,64 +27,58 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/sai-karthik-vempati-b87682236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sai-karthik-vempati-b87682236/" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
+    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original-wordmark.svg" alt="Python" width="60" height="60"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> 
   </a> 
-
 </p>
 
 <h3 align="left">Databases:</h3>
 <p align="left">
-  <a> 
-    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a style="margin-right: 20px;"> 
+    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/>
   </a>
-  <a> 
-    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <a style="margin-right: 20px;"> 
+    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="Microsoft SQL Server" width="60" height="60"/>
   </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
   </a>
 </p>
 
 <h3 align="left">Cloud:</h3>
 <p align="left">
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" height="60"/>
   </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" alt="DigitalOcean" width="60" height="60"/>
   </a>
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="60" height="60"/>
   </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="60" height="60"/>
   </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" alt="Postman" width="60" height="60"/>
   </a>
-  <a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <a style="margin-right: 20px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
   </a>
 </p>
 
-  </a>
- 
-</p>
 
 
 
